@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/google-keep-app/static/css/main.1dac0f4c.css",
+    "main.js": "/google-keep-app/static/js/main.e084991a.js",
+    "static/media/bootstrap-icons.woff?": "/google-keep-app/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/bootstrap-icons.woff2?": "/google-keep-app/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "index.html": "/google-keep-app/index.html",
+    "main.1dac0f4c.css.map": "/google-keep-app/static/css/main.1dac0f4c.css.map",
+    "main.e084991a.js.map": "/google-keep-app/static/js/main.e084991a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dac0f4c.css",
+    "static/js/main.e084991a.js"
+  ]
+}
